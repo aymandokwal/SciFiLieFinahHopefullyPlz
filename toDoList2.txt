@@ -1,0 +1,8 @@
+To do list
+
+1. Reading txt file, storing them as objects in array - Lane
+2. Traversing an array - Lane
+3. Additional arrays (i.e. for authors list  & title list)- Ayman
+4. Creating a stack for the books placed on desk - Ayman
+5. Check in check out - Lane
+6. Creating a priority queue for importance (goes through the queue and moves the book up if the importance is higher) - Ayman
