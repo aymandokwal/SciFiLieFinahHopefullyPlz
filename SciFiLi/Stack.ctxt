@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ Write\ a\ description\ of\ class\ Stack\ here.\n\n\ Ayman\ Dokwal\n\ @version\ (a\ version\ number\ or\ a\ date)\n\ \n\ Help\ from\ Kevin\ Doyle\n\ \n
+comment1.params=
+comment1.target=Stack()
+comment2.params=data
+comment2.target=void\ Push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ Pop()
+comment4.params=
+comment4.target=java.lang.Object\ Peek()
+comment5.params=
+comment5.target=boolean\ IsEmptys()
+comment6.params=
+comment6.target=boolean\ IsFulls()
+comment7.params=
+comment7.target=int\ GetSizes()
+numComments=8
